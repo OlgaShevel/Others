@@ -1,5 +1,5 @@
 # Others
-Python, срипты, базы и прочее
+<b>Python, срипты, базы и прочее</b>
 
 1. (Morse_code_script.ipynb)
 
