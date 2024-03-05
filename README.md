@@ -1,17 +1,12 @@
 # Others
 <b>Python, срипты, базы и прочее</b>
 
-1. <i>(Morse_code_script.ipynb)</i>
-
-    Генерация синтетического кода Морзе и сравнение признаков при помощи librosa с кодом человека
-    (Generating synthetic Morse code and comparing features using librosa with human-generated code)
-
-2. <i>(!scruper_photo.ipynb)</i>
+1. <i>(!scruper_photo.ipynb)</i>
 
    Автоматический скрапер фото по поисковому запросу с первой страницы Яндекс.картинки
    (Automatic scraper for photos based on a search query from the first page of Yandex.Images)
 
-4. <i>(!youtube_sсrapper_frame_by_frame.ipynb)</i>
+2. <i>(!youtube_sсrapper_frame_by_frame.ipynb)</i>
 
     Автоматический скрапер кадров из видео на youtube
     (Automatic scraper for frames from videos on YouTube)
