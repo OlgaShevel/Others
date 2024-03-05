@@ -7,10 +7,16 @@ Python, срипты, базы и прочее
     (Generating synthetic Morse code and comparing features using librosa with human-generated code)
 
 2. (!scruper_photo.ipynb)
+
    Автоматический скрапер фото по поисковому запросу с первой страницы Яндекс.картинки
    (Automatic scraper for photos based on a search query from the first page of Yandex.Images)
 
-3. ()
+4. (!youtube_sсrapper_frame_by_frame.ipynb)
+
+    Автоматический скрапер кадров из видео на youtube
+    (Automatic scraper for frames from videos on YouTube)
+    
+ 
 
 
 
